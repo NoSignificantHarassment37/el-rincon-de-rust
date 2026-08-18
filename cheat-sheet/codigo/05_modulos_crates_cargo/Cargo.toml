@@ -1,0 +1,7 @@
+[package]
+name = "modulos_crates_cargo"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+mini_lib = { path = "../mini_lib" }

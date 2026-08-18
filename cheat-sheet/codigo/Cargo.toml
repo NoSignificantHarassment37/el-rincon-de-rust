@@ -1,0 +1,10 @@
+[workspace]
+resolver = "2"
+members = [
+    "01_ownership_borrowing",
+    "02_lifetimes_pattern_matching",
+    "03_traits_zero_cost",
+    "04_mutabilidad_concurrencia",
+    "05_modulos_crates_cargo",
+    "mini_lib",
+]
